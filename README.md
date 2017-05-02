@@ -19,4 +19,7 @@ Sentiment analysis was performed the lyrics by each line using TextBlob. This pr
 <b>word2vec</b><br>
 word2vec analysis was performed using Gensim, PCA, and TSNE to better understand relationships among the words and songs in Beatles lyrics. creating 100-dimensional vectors out of each word yielded some pretty cool results. For one, subtracting the vector "sgt" from the vector "yellow" and then adding "submarine" yielded the vector "pepper". There are a lot of other cool vector manipulations that you can find and perform in the lyric_modelling_exploration.ipynb notebook. Plots were created using PCA and TSNE dimension reduction techniques. 2 dimenional plots can be viewed in the notebook. And here is a 3 dimensional plot of the vectors. I find it incredible how these arms formed.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~kekatzmann/1.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~kekatzmann/1/?share_key=6T9Ho51vrZCjBnsM76VRtF" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~kekatzmann/1.png?share_key=6T9Ho51vrZCjBnsM76VRtF" alt="Plot 1" style="max-width: 100%;width: 1114px;"  width="1114" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="kekatzmann:1" sharekey-plotly="6T9Ho51vrZCjBnsM76VRtF" src="https://plot.ly/embed.js" async></script>
+</div>
