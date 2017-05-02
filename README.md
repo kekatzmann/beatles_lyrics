@@ -21,5 +21,4 @@ word2vec analysis was performed using Gensim, PCA, and TSNE to better understand
 
 <div>
     <a href="https://plot.ly/~kekatzmann/1/?share_key=6T9Ho51vrZCjBnsM76VRtF" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~kekatzmann/1.png?share_key=6T9Ho51vrZCjBnsM76VRtF" alt="Plot 1" style="max-width: 100%;width: 1114px;"  width="1114" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="kekatzmann:1" sharekey-plotly="6T9Ho51vrZCjBnsM76VRtF" src="https://plot.ly/embed.js" async></script>
 </div>
